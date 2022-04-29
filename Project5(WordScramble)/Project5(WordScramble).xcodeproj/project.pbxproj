@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C26783C281B996900259B74 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7C26783B281B996900259B74 /* start.txt */; };
 		7CBBA558281ADC87002A52BC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBBA557281ADC87002A52BC /* AppDelegate.swift */; };
 		7CBBA55A281ADC87002A52BC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBBA559281ADC87002A52BC /* SceneDelegate.swift */; };
 		7CBBA55C281ADC87002A52BC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBBA55B281ADC87002A52BC /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7C26783B281B996900259B74 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 		7CBBA554281ADC87002A52BC /* Project5(WordScramble).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project5(WordScramble).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CBBA557281ADC87002A52BC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7CBBA559281ADC87002A52BC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				7CBBA560281ADC93002A52BC /* Assets.xcassets */,
 				7CBBA562281ADC93002A52BC /* LaunchScreen.storyboard */,
 				7CBBA565281ADC93002A52BC /* Info.plist */,
+				7C26783B281B996900259B74 /* start.txt */,
 			);
 			path = "Project5(WordScramble)";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7CBBA564281ADC93002A52BC /* LaunchScreen.storyboard in Resources */,
+				7C26783C281B996900259B74 /* start.txt in Resources */,
 				7CBBA561281ADC93002A52BC /* Assets.xcassets in Resources */,
 				7CBBA55F281ADC87002A52BC /* Main.storyboard in Resources */,
 			);
